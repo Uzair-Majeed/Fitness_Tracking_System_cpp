@@ -11,10 +11,10 @@ This is fitness tracking system that tracks your progess,your nutrition,generate
   - has access to user-related functionality.
   - can select their trainers.
 
--Social Media And Posting
--Group Chats
--Progress Analysis (Graphical)
--Signup/Registration through Binary File Reading
+- Social Media And Posting
+- Group Chats
+- Progress Analysis (Graphical)
+- Signup/Registration through Binary File Reading
 
 ## Installation
 - A C++ compiler since the program is console based.
